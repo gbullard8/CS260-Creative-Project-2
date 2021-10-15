@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 50px;
+}
+
+#lyrics{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+form{
+  text-align: center;
+}
+
+footer{
+  display: block;
+  color: blue;
+  font-size: 12pt;
+  font: helvetica;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+#buttonSubmit{
+  margin-top: 15px;
+}
